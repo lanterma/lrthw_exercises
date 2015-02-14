@@ -24,4 +24,4 @@ I get #{age + height + weight}"
 # is this 'working out the math in Ruby?'
 puts "But if we want to convert his weight to Kilograms #{my_name} would
 weigh #{my_weight * lb_to_kg_conversion} Kg"
-puts "Also, he would be #{my_height * inch_to_cent_conversion} centimeters tall "
+puts "Also, he would be #{my_height * inch_to_cent_conversion} centimeters tall"
