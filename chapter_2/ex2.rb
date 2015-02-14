@@ -7,8 +7,8 @@ puts "I could have code like this" # and the comment after is ignored
 # piece of code
 # puts "this wont run."
 
-run_this = 'Ruby will run this'
+please_run_this = 'Ruby will run this'
 
 puts "But this will run"
 
-puts "# {run_this}" # but not this
+puts "#{please_run_this}" # but not this
