@@ -17,13 +17,13 @@ Questions:
 
 ### Array
 
-[Here is the first link to Ruby Array documentation](http://www.ruby-doc.org/core-2.2.0/Array.html)<br>
+[Here is the first link to Ruby Array documentation](http://http://ruby-doc.org//core-2.1.5/Array.html)<br>
 [Here is the second link to Ruby Array documentation](http://api.rubyonrails.org/)<br>
 [Here is the third link to Ruby Array documentatinon](http://www.codecademy.com/glossary/ruby/arrays)<br>
 
 
 ### Hash
-[Here is the first link to Ruby Hash Documentation](http://www.ruby-doc.org/core-2.2.0/Hash.html) <br>
+[Here is the first link to Ruby Hash Documentation](http://ruby-doc.org//core-2.1.5/Hash.html) <br>
 Want another link to Hash Documentation? [Click here!](http://zetcode.com/lang/rubytutorial/hashes/) <br>
 Last but not least, [another site for Hash documentation](http://www.codecademy.com/glossary/ruby/hashes)
 

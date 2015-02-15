@@ -14,6 +14,7 @@
   string of characters, or integers. Adding them together creates <br>
   a longer string because it is a similar idea when you add two <br>
   integers together. It's just adding the strings and returning a longer string. <br>
+  The adding of strings together is also called 'concatination' <br>
 
 
 When changing the strings from single to double quotes, it does not work. <br>

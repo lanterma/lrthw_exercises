@@ -4,3 +4,8 @@ AllCops:
 StringLiterals:
   Enabled: false
 
+Metrics/LineLength:
+  Max: 130
+
+Style/Tab:
+  Enabled: false

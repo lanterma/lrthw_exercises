@@ -22,7 +22,7 @@ puts 3 + 2 < 5 - 7
 # This line asks a question, and then provides the answer which is 5
 puts "What is 3 + 2? #{3 + 2}"
 # This line asks a similar question, and provides the answer which is -2
-puts "what is 5 - 7 #{5 - 7}"
+puts "What is 5 - 7? #{5 - 7}"
 
 # This line writes out ' Oh, that's why it's false'
 puts "Oh, that's why it's false."
@@ -34,4 +34,4 @@ puts "How about some more."
 # greater > than, less than <, and greater or equal >= to compare numbers
 puts "Is is greater? #{5 > -2}"
 puts "Is it greater or equal? #{5 >= -2}"
-puts "Is it less or equal #{5 <= -2}"
+puts "Is it less or equal? #{5 <= -2}"
