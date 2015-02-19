@@ -12,8 +12,8 @@ eyes = 'Brown'
 teeth = 'white'
 hair = 'Brown'
 
-lb_to_kg_conversion = weight * 0.45
-inch_to_cent_conversion = height * 2.5
+my_weight_lb_to_kg = weight * 0.45
+my_height_inch_to_cent = height * 2.5
 
 puts "Let's talk about #{name}."
 puts "He's #{height} inches tall."
@@ -28,6 +28,6 @@ I get #{age + height + weight}"
 
 # is this 'working out the math in Ruby?'
 puts "But if we want to convert his weight to Kilograms
-#{name} would weigh #{weight * lb_to_kg_conversion} Kg"
+#{name} would weigh #{my_weight_lb_to_kg} Kg"
 puts "Also, he would be
-#{height * inch_to_cent_conversion} centimeters tall"
+#{my_height_inch_to_cent} centimeters tall"
