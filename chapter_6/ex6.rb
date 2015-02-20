@@ -37,7 +37,7 @@ hilarious = false
 
 # this is setting the value of the variable 'joke_evaluation'
 # to the string plus the variable 'hilarious'
-joke_evaluation = " Isn't that joke so funny?! #{hilarious}"
+joke_evaluation = "Isn't that joke so funny?! #{hilarious}"
 
 # this is telling Ruby to output the variable 'joke_evaluation'
 puts joke_evaluation

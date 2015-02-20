@@ -6,7 +6,7 @@
 
 name = 'Matt Lanterman'
 age = 28 # 1987
-height = 76.0  # inches
+height = 76  # inches
 weight = 165 # pounds
 eyes = 'Brown'
 teeth = 'white'
@@ -19,11 +19,11 @@ puts "Let's talk about #{name}."
 puts "He's #{height} inches tall."
 puts "He's #{weight} pounds heavy."
 puts "Actually that's not too heavy."
-puts "He's got #{eyes} and #{hair} hair."
+puts "He's got #{eyes} eyes and #{hair} hair."
 puts "His teeth are usually #{teeth} depending on the coffee."
 
 # I am going to try and get this next, trick line correct.
-puts "If i add #{age}, #{height}, and #{weight}
+puts "If I add #{age}, #{height}, and #{weight}
 I get #{age + height + weight}"
 
 # is this 'working out the math in Ruby?'
