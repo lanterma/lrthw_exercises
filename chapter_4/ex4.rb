@@ -2,9 +2,6 @@
 cars = 100
 
 # This is assigning the value of 4 to the number of spaces in a car
-# There diffrence in using 4 v 4.0 is there is a floating point now when we call the
-# space_in_car variable and then when we use it to calculate how many people we can
-# transport today.
 space_in_car = 4
 
 # This is assigning 30 as the number of drivers

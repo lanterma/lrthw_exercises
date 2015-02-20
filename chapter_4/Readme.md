@@ -7,6 +7,10 @@
   errors are still about too many spaces at the end of <br>
   the file or too many spaces between lines of code <br>
 
+  There difference in using 4 v 4.0 is there is a floating point, now when we call the
+  space_in_car variable and then when we use it to calculate how many people we can
+  transport today.
+
 
 
 
