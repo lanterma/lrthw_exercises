@@ -23,8 +23,7 @@ puts "He's got #{eyes} eyes and #{hair} hair."
 puts "His teeth are usually #{teeth} depending on the coffee."
 
 # I am going to try and get this next, trick line correct.
-puts "If I add #{age}, #{height}, and #{weight}
-I get #{age + height + weight}"
+puts "If I add #{age}, #{height}, and #{weight} I get #{age + height + weight}"
 
 # is this 'working out the math in Ruby?'
 puts "But if we want to convert his weight to Kilograms
