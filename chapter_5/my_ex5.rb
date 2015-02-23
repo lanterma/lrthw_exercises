@@ -22,7 +22,8 @@ puts "Actually that's not too heavy."
 puts "He's got #{eyes} eyes and #{hair} hair."
 puts "His teeth are usually #{teeth} depending on the coffee."
 
-# I am going to try and get this next, trick line correct.
+# I am going to try and get this next, trick line.
+# Line 27 should output one line now. 
 puts "If I add #{age}, #{height}, and #{weight} I get #{age + height + weight}"
 
 # is this 'working out the math in Ruby?'
