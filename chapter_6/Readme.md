@@ -1,12 +1,12 @@
  __Places where a string is inside a string <br>__
 
-   1. x = "there are #{types_of_people} type of people <br>
-   2. y = "Those who know #{binary} and those who #{do_not}.<br>
-   3. puts "I said: #{x}" <br>
-   4. puts "I also said: #{y}" <br>
+
+  y = "Those who know #{binary} (one) and those who #{do_not} (two).<br>
+  puts "I said: #{x}" (three) <br>
+  puts "I also said: #{y}" (four) <br>
 
  I do not think that the joke_evaluation variable is a string <br>
- inside a string because the value of 'hilarious' isa string.<br>
+ inside a string because the value of 'hilarious' is a string.<br>
  I think it is a boolean value? So, he was *not*  lying. <br>
 
 
